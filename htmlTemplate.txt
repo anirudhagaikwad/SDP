@@ -1,0 +1,37 @@
+What is UI kit?
+A user interface (UI) kit is a collection of graphic files (usually PSD) 
+and resources that can help designers with the task of building UIs for 
+their applications. ... Essentially, UI kits include all 
+of the components of a user interface that you may not need to be 
+spending time designing yourself.
+
+
+Why use ?
+UI kits can save you time, increase your profits, free up your creative energy
+and resources to focus on essential design tasks, make your designs easier to change,
+and give you opportunities to learn with diffrent asspects.
+All of these benefits of the UI kit have one thing in common: 
+they’ll make your life as a designer much, much easier.
+
+
+The biggest advantage to using a UI kit is the amount of time it can save you by 
+simplifying the task of finding a solution to a design problem.
+
+Let’s say you just landed a new design project. You're excited about your design ideas, 
+so you go about designing or searching for the perfect 
+UI elements that reflect your original design vision. Before 
+you know it, you’ve spent hours searching the web for the perfect interface elements, 
+
+
+There are a ton of great UI kits on the market, ranging from free bare-bones kits 
+to premium kits decked out with all the bells and whistles. T
+hey’ll all make your life as a designer significantly easier, 
+but there are a huge number of options out there. So where should you start?
+
+Finding a UI kit that you love might take a little bit of time, 
+but they’re easy to find online
+
+
+
+AdminLTE is a popular open source WebApp template for admin dashboards and control panels. 
+It is a responsive HTML template that is based on the CSS framework Bootstrap 4
